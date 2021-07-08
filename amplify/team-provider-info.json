@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-electronquickstart-dev-52904-authRole",
+      "UnauthRoleArn": "arn:aws:iam::808289581277:role/amplify-electronquickstart-dev-52904-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::808289581277:role/amplify-electronquickstart-dev-52904-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-electronquickstart-dev-52904-deployment",
+      "UnauthRoleName": "amplify-electronquickstart-dev-52904-unauthRole",
+      "StackName": "amplify-electronquickstart-dev-52904",
+      "StackId": "arn:aws:cloudformation:us-east-1:808289581277:stack/amplify-electronquickstart-dev-52904/f15e7ad0-dfce-11eb-87d5-12ab4fab6419",
+      "AmplifyAppId": "d2dlsxssvf1v1s"
+    }
+  }
+}
